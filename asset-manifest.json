@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kaushal_somani_trading_club/static/css/main.9a5c6096.css",
+    "main.js": "/kaushal_somani_trading_club/static/js/main.6301a4ac.js",
+    "static/js/453.53c0fb0a.chunk.js": "/kaushal_somani_trading_club/static/js/453.53c0fb0a.chunk.js",
+    "index.html": "/kaushal_somani_trading_club/index.html",
+    "main.9a5c6096.css.map": "/kaushal_somani_trading_club/static/css/main.9a5c6096.css.map",
+    "main.6301a4ac.js.map": "/kaushal_somani_trading_club/static/js/main.6301a4ac.js.map",
+    "453.53c0fb0a.chunk.js.map": "/kaushal_somani_trading_club/static/js/453.53c0fb0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.6301a4ac.js"
+  ]
+}
